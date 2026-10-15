@@ -1,0 +1,13 @@
+
+employee_id,name,age,department,salary,city
+1,Aman,22,IT,40000,Delhi
+2,Riya,24,HR,45000,Lucknow
+3,Rahul,23,IT,50000,Indore
+4,Priya,25,Finance,55000,Bhopal
+5,Karan,21,Marketing,35000,Jaipur
+6,Sneha,26,HR,60000,Mumbai
+7,Arjun,22,Finance,42000,Pune
+8,Neha,24,IT,65000,Delhi
+9,Rohit,23,Marketing,38000,Lucknow
+10,Ananya,25,Finance,58000,Indore
+

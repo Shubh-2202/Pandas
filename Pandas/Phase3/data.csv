@@ -1,0 +1,101 @@
+employee_id,name,age,department,salary,city,email,joining_date
+EMP001,Aman Sharma,22.0,IT,40000,Delhi,aman.sharma@gmail.com,2024-01-15
+EMP002,Riya Verma,24.0,HR,45000,Lucknow,riya.verma@gmail.com,2023-11-02
+EMP003,Rahul Singh,23.0, it ,50000,Indore,rahul.singh@gmail.com,2024/02/10
+EMP004,Priya Gupta,25.0,Finance,55000,Bhopal,priya.gupta@gmail.com,2022-07-21
+EMP005,Karan Mehta,21.0,Marketing,35000,Jaipur,karan.mehta@gmail.com,2024-03-12
+EMP006,Sneha Joshi,26.0,HR,60000,mumbai ,sneha.joshi@gmail.com,2021-09-08
+EMP007,Arjun Patel,22.0,Finance,42000,Pune,arjun.patel@gmail.com,2023-04-17
+EMP008,  Neha Kapoor ,24.0,IT,65000,Delhi,neha.kapoor@gmail.com,2020-12-05
+EMP009,Rohit Yadav,23.0,Marketing,38000,Lucknow,rohit.yadav@gmail.com,2024-05-19
+EMP010,Ananya Rao,25.0,Finance,58000,Indore,ananya.rao@gmail.com,2022-10-11
+EMP011,Rohan Bhat,43.0,Marketing,45000,Lucknow,rohan.bhat@outlook.com,2020-11-17
+EMP012,Pooja Mishra,44.0,IT,60000,Indore,,2024/07/12
+EMP013,Manav Arora,23.0,HR,35000,Kolkata,manav.arora@outlook.com,2023-09-22
+EMP014,Mahi Saxena,41.0,Sales,75000,Indore,mahi.saxena@gmail.com,2022-03-08
+EMP015,Tanya Sinha,,Marketing,68000,Mumbai,tanya.sinha@outlook.com,15-02-2023
+EMP016,Rohan Bhat,47.0,Finance,52000,Delhi,rohan.bhat@gmail.com,2024/07/12
+EMP017,Meera Nair,57.0,Marketing,28000,Bhopal,meera.nair@company.com,2024-01-30
+EMP018,Pooja Mishra,35.0,Sales,75000,Indore,pooja.mishra@yahoo.com,2021-06-14
+EMP019,Nikhil Bose,32.0,IT,,Lucknow,nikhil.bose@outlook.com,2020-11-17
+EMP020,Tanya Sinha,30.0,Finance,52000,Bhopal,tanya.sinha@gmail.com,2020-11-17
+EMP021,Yash Thakur,42.0,IT,28000,Delhi,yash.thakur@company.com,2020-11-17
+EMP022,Ira Chawla,32.0,Operations,45000,,ira.chawla@yahoo.com,2022-03-08
+EMP023,Ira Chawla,56.0,IT,75000,Hyderabad,ira.chawla@outlook.com,15-02-2023
+EMP024,Ira Chawla,45.0,Operations,35000,Hyderabad,ira.chawla@outlook.com,2020-11-17
+EMP025,Ishaan Roy,33.0,Operations,28000,Mumbai,not-an-email,2024/07/12
+EMP026,Yash Thakur,46.0,IT,32000,Pune,yash.thakur@yahoo.com,2020-11-17
+EMP027,Manav Arora,54.0,Marketing,32000,Mumbai,manav.arora@outlook.com,2024-01-30
+EMP028,Mahi Saxena,180.0,Finance,45000,Hyderabad,mahi.saxena@gmail.com,2022-12-01
+EMP029,Aryan Pillai,34.0,Marketing,75000,Chennai,aryan.pillai@company.com,2022-12-01
+EMP030,Aditya Jain,34.0,Marketing,68000,Indore,aditya.jain@yahoo.com,2024-01-30
+EMP031,Aisha Khan,56.0,Sales,unknown,Delhi,aisha.khan@company.com,2021-06-14
+EMP032,Yash Thakur,55.0,Sales,40000,Pune,yash.thakur@yahoo.com,2024/07/12
+EMP033,Kavya Shah,47.0,HR,52000,Lucknow,kavya.shah@company.com,2022-03-08
+EMP034,Rohan Bhat,20.0,Human Resources,40000,Kolkata,rohan.bhat@outlook.com,2022-12-01
+EMP035,Kabir Kulkarni,28.0,Marketing,75000,Kolkata,kabir.kulkarni@company.com,2022-12-01
+EMP036,Vikram Das,31.0,Finance,28000,Lucknow,vikram.das@company.com,2024/07/12
+EMP037,Yash Thakur,37.0,hr,32000,Delhi,yash.thakur@gmail.com,2021-06-14
+EMP038,Pooja Mishra,33.0,Marketing,32000,Lucknow,pooja.mishra@gmail.com,2022-12-01
+EMP039,Mahi Saxena,45.0,HR,32000,Delhi,mahi.saxena@company.com,2021-06-14
+EMP040,Mahi Saxena,54.0,IT,45000,Indore,mahi.saxena@yahoo.com,not available
+EMP041,Aisha Khan,46.0,Sales,60000,Hyderabad,aisha.khan@gmail.com,2024/07/12
+EMP042,Aditya Jain,38.0,Operations,52000,Delhi,aditya.jain@yahoo.com,2022-03-08
+EMP043,Yash Thakur,35.0,HR,68000,Kolkata,yash.thakur@yahoo.com,31-31-2024
+EMP044,Pooja Mishra,24.0,Finance,95000,Indore,pooja.mishra@company.com,2020-11-17
+EMP045,Dev Malhotra,28.0,Marketing,40000,Bhopal,dev.malhotra@outlook.com,2020-11-17
+,Aditya Jain,53.0,Marketing,60000,Chennai,aditya.jain@outlook.com,2023-09-22
+EMP047,Kavya Shah,40.0,Sales,68000,Kolkata,kavya.shah@yahoo.com,15-02-2023
+EMP048,Aditya Jain,30.0,Sales,35000,Indore,aditya.jain@outlook.com,15-02-2023
+EMP049,   ,48.0,Finance,75000,Kolkata,mahi.saxena@outlook.com,2020-11-17
+EMP050,Simran Kaur,52.0,Marketing,40000,Lucknow,simran.kaur@yahoo.com,2021-06-14
+EMP051,Pooja Mishra,24.0,Finance,60000,Chennai,pooja.mishra@gmail.com,15-02-2023
+EMP052,Simran Kaur,38.0,HR,-5000,Mumbai,simran.kaur@yahoo.com,2024/07/12
+EMP053,Kabir Kulkarni,29.0,Finance,45000,Pune,kabir.kulkarni@yahoo.com,15-02-2023
+EMP054,Yash Thakur,29.0,Sales,60000,Kolkata,yash.thakur@gmail.com,2020-11-17
+EMP055,Simran Kaur,-3.0,HR,52000,Indore,simran.kaur@company.com,15-02-2023
+EMP056,Nikhil Bose,45.0,IT,95000,Lucknow,nikhil.bose@outlook.com,2024/07/12
+EMP057,Vikram Das,57.0,IT,28000,Hyderabad,vikram.das@yahoo.com,2022-12-01
+EMP058,Manav Arora,36.0,Marketing,45000,DELHI,manav.arora@company.com,2023-09-22
+EMP059,Diya Sen,33.0,HR,52000,Indore,diya.sen@outlook.com,2024-01-30
+EMP060,Manav Arora,32.0,IT,52000,Chennai,manav.arora@outlook.com,2022-12-01
+EMP061,Kabir Kulkarni,28.0,Marketing ,40000,Mumbai,kabir.kulkarni@company.com,15-02-2023
+EMP062,Simran Kaur,44.0,Operations,68000,Jaipur,simran.kaur@yahoo.com,2024-01-30
+EMP063,Yash Thakur,31.0,Marketing,68000,Indore,yash.thakur@gmail.com,2022-12-01
+EMP064,Pooja Mishra,26.0,Marketing,35000,Chennai,person@,2021-06-14
+EMP065,Nikhil Bose,32.0,Marketing,35000,Pune,nikhil.bose@yahoo.com,2023-09-22
+EMP066,Meera Nair,48.0,IT,28000,Lucknow,meera.nair@gmail.com,2020-11-17
+EMP067,Naina Ghosh,,Operations,45000,Lucknow,naina.ghosh@company.com,2020-11-17
+EMP068,Aryan Pillai,54.0,IT,45000,Delhi,aryan.pillai@gmail.com,2021-06-14
+EMP069,Nikhil Bose,42.0,Finance,68000,Hyderabad,nikhil.bose@outlook.com,2022-03-08
+EMP070,Meera Nair,50.0,Finance,,Bhopal,meera.nair@yahoo.com,2022-12-01
+EMP071,Aisha Khan,58.0,HR,32000,Delhi,aisha.khan@yahoo.com,2023-09-22
+EMP072,Manav Arora,55.0,IT,32000,Hyderabad,manav.arora@gmail.com,15-02-2023
+EMP073,Pooja Mishra,29.0,Operations,95000, ,pooja.mishra@outlook.com,2022-12-01
+EMP074,Meera Nair,21.0,Operations,85000,Lucknow,meera.nair@gmail.com,2022-03-08
+EMP075,Ishaan Roy,39.0,Marketing,95000,Indore,ishaan.roy@yahoo.com,2020-11-17
+EMP076,Naina Ghosh,21.0,Finance,60000,Kolkata,naina.ghosh@gmail.com,2024/13/40
+EMP077,Vikram Das,26.0,Operations,52000,Chennai,vikram.das@yahoo.com,2022-12-01
+EMP078,Meera Nair,54.0,Marketing,95000,Mumbai,meera.nair@company.com,2020-11-17
+EMP079,Riya Verma,29.0,IT,32000,Hyderabad,naina.ghosh@yahoo.com,2021-06-14
+EMP002,Riya Verma,24.0,HR,45000,Lucknow,riya.verma@gmail.com,2023-11-02
+EMP081,Manav Arora,52.0,IT,60000,Chennai,manav.arora@company.com,2020-11-17
+EMP082,Aryan Pillai,52.0,HR,60000,Hyderabad,aryan.pillai@outlook.com,2024-01-30
+EMP005,Yash Thakur,50.0,HR,52000,Bhopal,yash.thakur@outlook.com,2022-03-08
+EMP084,Dev Malhotra,33.0,Sales,68000,Chennai,dev.malhotra@company.com,2024/07/12
+EMP085,Diya Sen,32.0,Sales,32000,Delhi,diya.sen@outlook.com,2021-06-14
+EMP086,Nikhil Bose,43.0,IT, 72000 ,Lucknow,nikhil.bose@company.com,2021-06-14
+EMP087,Mahi Saxena,20.0,Sales,28000,Kolkata,mahi.saxena@yahoo.com,2024/07/12
+EMP088,Kavya Shah,58.0,Finance,95000,Hyderabad,kavya.shah@yahoo.com,2024-01-30
+EMP089,Nikhil Bose,48.0,sales,32000,Chennai,nikhil.bose@outlook.com,2021-06-14
+EMP090,Ishaan Roy,29.0,Marketing,68000,Kolkata,ishaan.roy@gmail.com,2021-06-14
+EMP091,Kavya Shah,45.0,Marketing,32000,Jaipur,kavya.shah@yahoo.com,2024-01-30
+EMP092,Dev Malhotra,58.0,HR,68000,Delhi,,2023-09-22
+EMP093,Ira Chawla,43.0,HR,45000,Jaipur,ira.chawla@company.com,2022-12-01
+EMP094,Aditya Jain,35.0,HR,68000,Mumbai,aditya.jain@outlook.com,2020-11-17
+EMP095,Pooja Mishra,0.0,Finance,45000,Kolkata,pooja.mishra@yahoo.com,2022-12-01
+EMP096,Nikhil Bose,20.0,Sales,68000,Jaipur,nikhil.bose@yahoo.com,2023-09-22
+EMP097,Rohan Bhat,26.0,HR,28000,Indore,rohan.bhat@yahoo.com,2022-03-08
+EMP098,Meera Nair,40.0,HR,40000,New Delhi,meera.nair@outlook.com,2023-09-22
+EMP099,Kavya Shah,20.0,Sales,68000,Hyderabad,kavya.shah@gmail.com,2022-12-01
+EMP100,Diya Sen,53.0,Marketing,75000,Bhopal,diya.sen@company.com,2021-06-14
